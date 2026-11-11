@@ -2,7 +2,7 @@
 I am Merve Kalkan
 
 
-I'm currently learning GitHub features 
+I'm currently learning about GitHub features 
 
 
 <!--
